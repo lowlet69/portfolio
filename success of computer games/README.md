@@ -1,5 +1,5 @@
 # Выявление закономерностей, влияющих на успешность компьтерных игр
-[NBviewer](https://nbviewer.org/github/lowlet69/portfolio/blob/main/success%20of%20computer%20games/P1.ipynb)
+[NBviewer](https://nbviewer.org/github/lowlet69/portfolio/blob/main/success%20of%20computer%20games/P1.ipynb) [ipynb](https://github.com/lowlet69/portfolio/blob/main/success%20of%20computer%20games/P1.ipynb)
 
 ## Описание проекта
 
