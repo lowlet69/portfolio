@@ -10,5 +10,4 @@
 | 4.   | [Анализ программы лояльности магазина строительных товаров](https://github.com/lowlet69/portfolio/tree/main/loyalty%20program%20in%20retail) | Используя данные о покупках в магазине за последние несколько месяцев, нам предстоит выяснить хорошо ли себя показала программа лояльности | python, pandas, numpy, scipy, matplotlib, seaborn |
 | 5.   | [Анализ реляционной базы данных с помощью SQL](https://github.com/lowlet69/portfolio/tree/main/SQL) | Используя реляционную базу данных, чтобы сформулировать ценностное предложение для нового продукта | SQL, python, pandas, sqlalchemy |
 
-https://github.com/lowlet69/portfolio/tree/main/SQL
  
